@@ -51,37 +51,7 @@ if (isset($_COOKIE['user_id'])) {
 
       </div>
 
-      <div class="box-container">
-
-
-
-         <div class="box">
-
-            <i class="fas fa-user-graduate"></i>
-            <div>
-               <h3>512</h3>
-               <span>Pelajar Terhebat</span>
-            </div>
-         </div>
-
-         <div class="box">
-            <i class="fas fa-chalkboard-user"></i>
-            <div>
-               <h3>9</h3>
-               <span>Instruktur</span>
-            </div>
-         </div>
-
-         <div class="box">
-            <i class="fas fa-briefcase"></i>
-            <div>
-               <h3>99%</h3>
-               <span>Penempatan Pekerja</span>
-            </div>
-         </div>
-
-      </div>
-
+    
    </section>
 
    <!-- about section ends -->
